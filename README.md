@@ -2,7 +2,7 @@
 
 Currently studying INFORMATICA (Computer Science) at the University of Pisa
 
-zioperw non mi fa fare lápplication per gli student benefits
+zioperw non mi fa fare l'application per gli student benefits
 
 <!--
 **avenantino/avenantino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
