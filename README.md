@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Currently studying INFORMATICA (Computer Science) at the University of Pisa
+
 <!--
 **avenantino/avenantino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
